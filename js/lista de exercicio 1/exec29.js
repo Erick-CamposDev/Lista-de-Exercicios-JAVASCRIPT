@@ -1,10 +1,20 @@
-const numArr = [2, 5, 12, 73, 15, 18, 2, 34, 21, 20, 8, 11, 16, 4];
-let cont = 0;
+/*
+Exercício:
+Encontre o maior e o menor número de um array.
+*/
 
-for (let i = 0; i < numArr.length; i++) {
-  if (numArr[i] >= 10 && numArr[i] <= 20) {
-    cont++;
+const arr = [2, 5, 1, 1, 6, 3, 12, 24, 6, 13, 1, 51, 1, 3, 12, 4, 0];
+let small = arr[0];
+let big = arr[0];
+
+for (const num of arr) {
+  if (num < small) {
+    small = num;
+  }
+
+  if (num > big) {
+    big = num;
   }
 }
 
-console.log(cont);
+console.log(`O maior número é ${big} e o menor é ${small}`);

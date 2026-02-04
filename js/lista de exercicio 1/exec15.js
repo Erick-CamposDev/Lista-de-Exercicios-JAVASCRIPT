@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que retorna mensagens diferentes para tipos de automóveis, conforme o modelo informado.
+*/
+
 function resaleCars(car) {
   switch (car) {
     case "hatch":

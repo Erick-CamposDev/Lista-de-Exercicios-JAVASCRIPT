@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que imprime o conceito de cada nota de um array, conforme a faixa de valores.
+*/
+
 const grades = [1.8, 7.2, 8.5, 3.3, 4.5, 9.7, 5.7];
 
 function showGradeStatus(arr) {

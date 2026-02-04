@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que determina o tipo de triângulo (equilátero, isósceles ou escaleno) com base nos valores dos lados, validando se é possível formar um triângulo.
+*/
+
 function verifyTriangleType(side1, side2, side3) {
   if (side1 <= 0 || side2 <= 0 || side3 <= 0) {
     return "Valores Invalidos";

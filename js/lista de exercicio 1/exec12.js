@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que calcula o fatorial de um número.
+*/
+
 function calcFactorial(num) {
   let result = 1;
 

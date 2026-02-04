@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que retorna o nome de um número de 0 a 10, ou informa se está fora do intervalo.
+*/
+
 function sayNumberName(num) {
   switch (num) {
     case 0:

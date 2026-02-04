@@ -1,3 +1,8 @@
+/*
+Exercício:
+Desenvolva uma função que calcula o valor total de um pedido em uma lanchonete, conforme o código do produto e a quantidade.
+*/
+
 function restaurantMenu(code, amount) {
   switch (code) {
     case 100:

@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que retorna uma mensagem específica para diferentes frutas, usando estrutura condicional.
+*/
+
 function fruitStore(fruit) {
   switch (fruit) {
     case "Maçã":

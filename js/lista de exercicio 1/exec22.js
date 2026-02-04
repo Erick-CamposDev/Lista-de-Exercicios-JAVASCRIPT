@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que calcula o valor de uma anuidade com juros compostos, conforme o mês de pagamento.
+*/
+
 function calcAnnuity(value, month) {
   const fees = 0.05;
   const lateMonth = month - 1;

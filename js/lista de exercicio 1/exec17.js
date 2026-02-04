@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que calcula o salário reajustado conforme o plano informado ('a', 'b' ou 'c'), aplicando o percentual correto.
+*/
+
 function calculateSalary(plan, salary) {
   switch (plan) {
     case "a":

@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que realiza operações matemáticas básicas (+, -, *, /) entre dois números, tratando divisão por zero e operadores desconhecidos.
+*/
+
 function calculateNums(num1, num2, operator) {
   switch (operator) {
     case "+":

@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que simula um caixa eletrônico, mostrando a quantidade de notas necessárias para um determinado valor.
+*/
+
 function atm(money) {
   const ballots = [100, 50, 20, 10, 5, 1];
 

@@ -1,3 +1,8 @@
+/*
+Exercício:
+Imprima os termos de uma progressão aritmética e de uma progressão geométrica, conforme os parâmetros informados.
+*/
+
 function arithmeticProgression(term, firstTerm, commonDifference) {
   for (let i = 0; i < term; i++) {
     const finalTerm = firstTerm + i * commonDifference;

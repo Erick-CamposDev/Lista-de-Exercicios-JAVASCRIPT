@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que resolve a fórmula de Bhaskara, retornando as raízes reais ou informando se o delta é negativo.
+*/
+
 function calcBhaskaraFormula(ax2, bx, c) {
   const delta = bx ** 2 - 4 * ax2 * c;
 

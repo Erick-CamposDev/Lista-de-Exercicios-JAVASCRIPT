@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que analisa uma lista de pontuações, retornando quantas vezes o recorde foi quebrado e em qual jogo ocorreu o pior desempenho.
+*/
+
 function verifyPerfomance(list) {
   let brokeRecord = 0;
   let bestScore = list[0];

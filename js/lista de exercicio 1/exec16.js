@@ -1,3 +1,8 @@
+/*
+Exercício:
+Desenvolva uma calculadora que realiza operações básicas (+, -, *, /) entre dois números, tratando divisão por zero e operadores inválidos.
+*/
+
 function calculator(num1, operator, num2) {
   switch (operator) {
     case "+":

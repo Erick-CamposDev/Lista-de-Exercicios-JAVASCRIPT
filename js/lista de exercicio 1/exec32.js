@@ -1,3 +1,8 @@
+/*
+Exercício:
+Calcule a média dos valores de um array.
+*/
+
 const arr = [4, 6, 1, 6, 2, 1, 9, 7, 4];
 
 function calcAverageArr(arr) {

@@ -1,3 +1,8 @@
+/*
+Exercício:
+Implemente uma função que calcula o valor do plano de saúde conforme a idade do paciente.
+*/
+
 function identifyHealthPlan(age) {
   if (age < 10) return `Você deve pagar ${100 + 80}R$`;
   else if (age >= 10 && age <= 30) return `Você deve pagar ${100 + 50}R$`;

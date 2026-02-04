@@ -1,3 +1,8 @@
+/*
+Exercício:
+Crie uma função que troca os valores de dois arrays de mesmo tamanho, posição a posição.
+*/
+
 const arr = [2, 4, 1, 6, 1, 3];
 const arr2 = [6.9, 8, 7, 1, 2, 5];
 

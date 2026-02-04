@@ -1,3 +1,8 @@
+/*
+Exercício:
+Desenvolva uma função que informa se um dia da semana é útil, fim de semana ou inválido, recebendo o número do dia.
+*/
+
 function isABusinessDay(day) {
   switch (day) {
     case 1:
