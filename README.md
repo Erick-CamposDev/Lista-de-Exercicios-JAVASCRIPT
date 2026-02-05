@@ -99,12 +99,16 @@ cd "Lista de Exercicio 1"
 node nomeDoArquivo.js
 ```
 
+---
+
 ## 🧩 Tecnologias Utilizadas
 
 - JavaScript (ES6+)
 - Node.js
 - POO
 - Expressões Regulares (Regex)
+
+---
 
 ## 📌 Observações
 
@@ -115,4 +119,6 @@ node nomeDoArquivo.js
   - `hardExecs` → exercícios complexos, focados em lógica, algoritmos e resolução de problemas
 - A organização do repositório foi pensada para facilitar a evolução progressiva, indo do básico ao avançado.
 
-Repositório criado por: **Erick Campos**
+---
+
+<p align="center">Repositório criado por: **Erick Campos**</p>
