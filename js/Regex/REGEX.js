@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que valide se o valor de um campo de texto é um CPF ou um e-mail válido utilizando expressões regulares, exibindo mensagens de acordo com o resultado.
+*/
 const submitBtn = document.getElementById("submitBtn");
 const msgContainer = document.querySelector(".msg");
 

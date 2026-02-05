@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente o método personalizado "mapear" no protótipo de Array, que funciona como o método map, retornando um novo array com os resultados da função callback aplicada a cada elemento.
+*/
 Array.prototype.mapear = function (callback) {
   const newArr = [];
 

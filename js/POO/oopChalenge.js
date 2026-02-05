@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma classe de personagem com atributos, métodos de experiência, evolução de nível e lógica de combate, utilizando getters, setters e herança.
+*/
 class Character {
   constructor(name, health, attackPower, level, xp, isDead) {
     this.name = name;

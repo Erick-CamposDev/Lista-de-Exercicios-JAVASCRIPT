@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função factory para criar personagens com métodos de ataque, receber dano e consultar vida, simulando batalhas entre eles.
+*/
 function createCharacter(name, health, mana, damage) {
   return {
     name,
@@ -8,7 +12,7 @@ function createCharacter(name, health, mana, damage) {
     attack(target) {
       target.receiveDamage(this.damage);
       console.log(
-        `${this.name} atacou ${target.name}, ${target.name} está com ${target.health} de vida!`
+        `${this.name} atacou ${target.name}, ${target.name} está com ${target.health} de vida!`,
       );
     },
 

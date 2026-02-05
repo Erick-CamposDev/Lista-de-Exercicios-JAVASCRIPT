@@ -1,3 +1,4 @@
+// Enunciado: Implemente um sistema de perfis de usuários com diferentes níveis de acesso, onde apenas usuários com nível suficiente podem desbloquear enigmas. Inclua classes para perfis, usuários comuns e agentes secretos, além de métodos para visualizar perfil, subir de nível e tentar acessar enigmas.
 class Riddle {
   constructor(minLevel, msg) {
     this.minLevel = minLevel;

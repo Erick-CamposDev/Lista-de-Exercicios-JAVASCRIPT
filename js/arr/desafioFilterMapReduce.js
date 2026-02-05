@@ -1,4 +1,4 @@
-//prettier-ignoreS
+//prettier-ignore
 const students = [
   { nome: "Victor", notaTotal: 68, curso: "Medicina", status: "Em andamento" },
   { nome: "Aline", notaTotal: 81, curso: "Enfermagem", status: "Concluído" },

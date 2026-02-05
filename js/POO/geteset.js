@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente um objeto de conta bancária com propriedades privadas e utilize getters e setters para controlar o acesso e validação do saldo.
+*/
 const bankAccount = {
   holder: "Matheus",
   _balance: 1823,

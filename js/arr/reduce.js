@@ -1,3 +1,7 @@
+/*
+Exercício:
+Utilize os métodos map e reduce para verificar se todos os alunos são bolsistas e se existe pelo menos um bolsista no array de estudantes.
+*/
 const students = [
   { aluno: "Fernando", nota: 9.4, bolsista: true },
   { aluno: "Vitor", nota: 9.4, bolsista: false },

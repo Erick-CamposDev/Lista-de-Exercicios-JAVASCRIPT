@@ -1,3 +1,7 @@
+/*
+Exercício:
+Utilize o método filter para retornar apenas os produtos que são frágeis e possuem preço acima de 700 reais.
+*/
 const products = [
   { name: "Mesa Gamer", price: 850, fragil: false },
   { name: "Processador Ryzen", price: 750, fragil: true },

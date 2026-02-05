@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente o método personalizado "filtrar" no protótipo de Array, que funciona como o método filter, retornando um novo array apenas com os elementos que passam na condição da função callback.
+*/
 Array.prototype.filtrar = function (callback) {
   const newArr = [];
 

@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente funções que utilizam expressões regulares para validar se uma string contém apenas dígitos, encontrar vogais, verificar se a primeira letra é maiúscula e remover caracteres que não sejam letras ou espaços.
+*/
 function onlyDigits(str) {
   return /^\d+$/g.test(str);
 }
