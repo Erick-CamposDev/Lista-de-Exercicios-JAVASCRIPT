@@ -3,8 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPTstyle=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPTstyle=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT?style=for-the-badge)
 
 > Repositório com uma grande coleção de exercícios de JavaScript, indo do básico até desafios avançados, organizado por listas e temas.
 
