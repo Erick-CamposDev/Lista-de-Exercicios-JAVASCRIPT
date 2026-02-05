@@ -121,4 +121,4 @@ node nomeDoArquivo.js
 
 ---
 
-<p align="center">Repositório criado por: **Erick Campos**</p>
+<p align="center">Repositório criado por: <strong>Erick Campos</strong></p>
