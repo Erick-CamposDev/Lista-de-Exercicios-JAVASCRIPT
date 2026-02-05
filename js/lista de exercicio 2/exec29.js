@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que retorne o terceiro maior valor de um array de números.
+*/
 function getTheSecondBigger(arr) {
   const sortedArr = arr.sort((a, b) => a - b);
 

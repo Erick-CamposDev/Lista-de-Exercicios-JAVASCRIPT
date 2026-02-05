@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que, dado um objeto com nomes de alunos e arrays de notas, retorne o nome e a média do aluno com a maior média.
+*/
 function getBestStudent(obj) {
   let bestStudent = "";
   let bestAverage = 0;

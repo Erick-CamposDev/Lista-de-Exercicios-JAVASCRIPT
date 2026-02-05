@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que filtre um array de números, retornando apenas os números que possuem uma quantidade específica de dígitos.
+*/
 function filterByDigits(arr, digit) {
   return arr.filter((n) => Math.abs(n).toString().length === digit);
 }

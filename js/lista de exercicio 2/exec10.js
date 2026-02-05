@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que receba um número e retorne uma string formada por esse número de símbolos "+".
+*/
 function plusSymbol(num) {
   let str = "";
 

@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que conte quantas vezes um caractere específico aparece em uma frase.
+*/
 function countChracter(char, phrase) {
   let count = 0;
 

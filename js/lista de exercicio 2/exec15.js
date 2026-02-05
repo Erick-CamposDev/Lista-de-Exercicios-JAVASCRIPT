@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que, dado um array de números, retorne um novo array contendo apenas os números pares que estão em índices pares.
+*/
 function evenArr(arr) {
   const evenArr = [];
 

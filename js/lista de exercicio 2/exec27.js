@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que inverta as chaves e valores de um objeto.
+*/
 function invertObj(obj) {
   const invertedObj = {};
   const keys = Object.keys(obj);

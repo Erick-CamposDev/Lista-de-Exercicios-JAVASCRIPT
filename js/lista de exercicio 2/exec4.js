@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que, dado o número de um mês (1 a 12), retorne o nome correspondente desse mês em português. Caso o número seja inválido, retorne uma mensagem apropriada.
+*/
 function getMonthByNumber(num) {
   if (!Number.isInteger(num)) {
     return "Não aceita números decimais";

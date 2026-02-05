@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que receba um array de números e retorne o menor valor presente no array.
+*/
 function getSmaller(arr) {
   let smaller = arr[0];
 

@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que receba um array de números e retorne a soma de todos os elementos.
+*/
 function sumArr(arr) {
   return arr.reduce((acc, n) => {
     return (acc += n);

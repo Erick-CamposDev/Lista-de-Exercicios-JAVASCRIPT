@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que receba uma string e um número, retornando um array com a string repetida a quantidade de vezes indicada.
+*/
 function repeat(string, times) {
   const arr = [];
 

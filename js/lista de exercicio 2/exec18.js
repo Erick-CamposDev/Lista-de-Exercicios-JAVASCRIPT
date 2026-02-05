@@ -1,3 +1,7 @@
+/*
+Exercício:
+Crie uma função que receba um array de objetos representando despesas e retorne o valor total das despesas.
+*/
 function totalExpenses(arr) {
   const prices = arr.map((p) => p.preco);
 

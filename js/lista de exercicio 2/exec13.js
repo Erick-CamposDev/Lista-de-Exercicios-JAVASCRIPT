@@ -1,3 +1,7 @@
+/*
+Exercício:
+Implemente uma função que receba um array e retorne um novo array contendo apenas os números presentes no array original.
+*/
 function filterNumbers(arr) {
   return arr.filter((n) => typeof n === "number");
 }
