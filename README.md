@@ -14,7 +14,7 @@
 
 Este repositório foi criado para **praticar, evoluir e consolidar conhecimentos em JavaScript**, utilizando exercícios de múltiplas fontes:
 
-- 📘 **Listas 1 e 2** → Exercícios retirados do **Curso da Cod3r Cursos**
+- 📘 **Listas 1 e 2** → Exercícios retirados do **Curso do Cod3r Cursos**
 - 🤖 **POO, Arrays, Regex e Extras** → Exercícios criados a partir de **sugestões de IA**
 
 O objetivo é treinar lógica, sintaxe, boas práticas e conceitos importantes da linguagem.
@@ -41,27 +41,13 @@ O objetivo é treinar lógica, sintaxe, boas práticas e conceitos importantes d
 
 | Pasta                    | Conteúdo                                                            |
 | ------------------------ | ------------------------------------------------------------------- |
-| **Lista de Exercicio 1** | Exercícios básicos retirados do curso da Cod3r Cursos               |
-| **Lista de Exercicio 2** | Exercícios de nível intermediário do curso da Cod3r Cursos          |
+| **Lista de Exercicio 1** | Exercícios básicos retirados do curso do Cod3r Cursos               |
+| **Lista de Exercicio 2** | Exercícios de nível intermediário do curso do Cod3r Cursos          |
 | **POO**                  | Exercícios focados em Programação Orientada a Objetos em JavaScript |
 | **arr**                  | Exercícios voltados para manipulação de arrays e seus métodos       |
 | **Regex**                | Exercícios envolvendo expressões regulares                          |
 | **ExtraExecs/easyExecs** | Exercícios simples para treino rápido                               |
 | **ExtraExecs/hardExecs** | Exercícios desafiadores de lógica e raciocínio                      |
-
----
-
-## 🎯 Objetivos do projeto
-
-Este repositório tem como principais objetivos:
-
-- Consolidar a base em JavaScript
-- Praticar lógica de programação
-- Dominar estruturas como arrays, objetos e funções
-- Aprender e aplicar Regex
-- Treinar Programação Orientada a Objetos
-- Resolver problemas simples e desafios avançados
-- Criar um portfólio público de estudo
 
 ---
 
