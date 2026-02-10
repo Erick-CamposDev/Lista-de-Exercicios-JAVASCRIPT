@@ -28,7 +28,11 @@ O objetivo é treinar lógica, sintaxe, boas práticas e conceitos importantes d
  ┣ 📂 Lista de Exercicio 1
  ┣ 📂 Lista de Exercicio 2
  ┣ 📂 POO
- ┣ 📂 arr
+ ┣ 📂 Array
+      ┣ 📂 arrExtras
+      ┣ 📂 filterArr
+      ┣ 📂 mapArr
+      ┗ 📂 reduceArr
  ┣ 📂 Regex
  ┗ 📂 ExtraExecs
       ┣ 📂 easyExecs
@@ -44,7 +48,7 @@ O objetivo é treinar lógica, sintaxe, boas práticas e conceitos importantes d
 | **Lista de Exercicio 1** | Exercícios básicos retirados do curso do Cod3r Cursos               |
 | **Lista de Exercicio 2** | Exercícios de nível intermediário do curso do Cod3r Cursos          |
 | **POO**                  | Exercícios focados em Programação Orientada a Objetos em JavaScript |
-| **arr**                  | Exercícios voltados para manipulação de arrays e seus métodos       |
+| **Array**                | Exercícios voltados para manipulação de arrays e seus métodos       |
 | **Regex**                | Exercícios envolvendo expressões regulares                          |
 | **ExtraExecs/easyExecs** | Exercícios simples para treino rápido                               |
 | **ExtraExecs/hardExecs** | Exercícios desafiadores de lógica e raciocínio                      |
@@ -100,6 +104,12 @@ node nomeDoArquivo.js
 
 - Os exercícios das Listas 1 e 2 foram retirados do curso da Cod3r Cursos
 - Os exercícios das pastas POO, arr, Regex e ExtraExecs foram baseados em sugestões de IA
+- A pasta Array é dividida em:
+  - `arrExtras` → exercícios extras para outros métodos ou para os 3 métodos em conjunto.
+  - `filterArr` → exercícios focados para o método `filter()`
+  - `mapArr` → exercícios focados para o método `map()`
+  - `reduceArr` → exercícios focados para o método `reduce()`
+
 - A pasta ExtraExecs é dividida em:
   - `easyExecs` → exercícios simples para aquecimento e treino rápido
   - `hardExecs` → exercícios complexos, focados em lógica, algoritmos e resolução de problemas
