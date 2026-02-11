@@ -1,3 +1,12 @@
+/*
+Exercicio:
+Dado um array de produtos com nome, preço e categoria, implemente funções para:
+- Filtrar apenas os produtos da categoria "Periféricos"
+- Somar os preços dos produtos filtrados
+- Mapear os periféricos para uma string no formato "nome - R$preço"
+- Calcular o valor total de todos os produtos
+*/
+
 const produtos = [
   { nome: "Teclado", preco: 120, categoria: "Periféricos" },
   { nome: "Mouse", preco: 60, categoria: "Periféricos" },

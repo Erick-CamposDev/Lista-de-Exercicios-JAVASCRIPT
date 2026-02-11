@@ -1,3 +1,6 @@
+/*
+Exercicio de escopo por blocos
+*/
 {
   console.log(1);
   console.log(3);

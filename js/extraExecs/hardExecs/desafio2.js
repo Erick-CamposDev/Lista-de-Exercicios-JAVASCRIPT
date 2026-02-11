@@ -1,3 +1,11 @@
+/*
+Exercicio:
+Dado um array de nomes com preços, implemente essas funções:
+- Uma função que extraia APENAS os números desse array e crie um vetor com os mesmos.
+- Uma função que filtre apenas os valores menores que 100 no array criado só com os números
+- Uma função que mostre a soma e os vendedores dos valores filtrados em um objeto.
+*/
+
 const sells = [
   "João - R$ 120",
   "Maria - R$ 80",
